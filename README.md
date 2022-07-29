@@ -1,8 +1,8 @@
 
 # flutter-crypto-wallet
 
-* Developed with 💙 by [Josue Erazo][profile_link] # 🏋️
-* Dockerized by Marcello de Sales [Marcello de Sales][marcello_profile_link]
+* Developed with 💙 by [SuperComet329][profile_link] # 🏋️
+* Dockerized by SuperComet329 [SuperComet329][supercomet329_profile_link]
 
 [![License: MIT][license_badge]][license_link]
 
@@ -12,11 +12,11 @@ A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with
 
  - Web
 
-![Web](https://raw.githubusercontent.com/JErazo7/flutter-crypto-wallet/readme/screenshots/web.png)
+![Web](https://raw.githubusercontent.com/supercomet329/flutter-crypto-wallet/readme/screenshots/web.png)
   
   - iOS - macOs - Android 
   
-  ![iOS - macOs - Android](https://raw.githubusercontent.com/JErazo7/flutter-crypto-wallet/readme/screenshots/devices.png)
+  ![iOS - macOs - Android](https://raw.githubusercontent.com/supercomet329/flutter-crypto-wallet/readme/screenshots/devices.png)
 
 ## Architecture 🚀
 
@@ -70,6 +70,6 @@ crypto-wallet_1  | Starting server on port 4040 ...
 
 [very_good_analysis_link]:  https://pub.dev/packages/very_good_analysis
 
-[profile_link]:  https://www.linkedin.com/in/erazo-josue/
-[marcello_profile_link]:  https://www.linkedin.com/in/marcellodesales/
+[profile_link]:  https://www.linkedin.com/in/hans-david-296a97240/
+[supercomet329_profile_link]:  https://www.linkedin.com/in/hans-david-296a97240/
 [license_badge]:  https://img.shields.io/badge/license-MIT-blue.svg
