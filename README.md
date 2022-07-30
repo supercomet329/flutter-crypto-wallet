@@ -12,11 +12,11 @@ A multiplatform (Android, iOS, Web and macOS) crypto-wallet example created with
 
  - Web
 
-![Web](https://raw.githubusercontent.com/supercomet329/flutter-crypto-wallet/readme/screenshots/web.png)
+![Web](https://raw.githubusercontent.com/JErazo7/flutter-crypto-wallet/readme/screenshots/web.png)
   
   - iOS - macOs - Android 
   
-  ![iOS - macOs - Android](https://raw.githubusercontent.com/supercomet329/flutter-crypto-wallet/readme/screenshots/devices.png)
+  ![iOS - macOs - Android](https://raw.githubusercontent.com/JErazo7/flutter-crypto-wallet/readme/screenshots/devices.png)
 
 ## Architecture 🚀
 
